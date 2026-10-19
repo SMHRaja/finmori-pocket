@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build:web",
+  "outputDirectory": "dist",
+  "installCommand": "npm ci --ignore-scripts",
+  "framework": null,
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/", "destination": "/pocket", "permanent": false }
+  ]
+}

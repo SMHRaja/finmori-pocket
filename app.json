@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "Finmori",
+    "slug": "finmori",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo-glow.png",
+    "scheme": "finmori",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "icon": "./assets/images/logo-glow.png"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0e101b",
+        "foregroundImage": "./assets/images/logo-glow.png",
+        "backgroundImage": "./assets/images/logo-glow.png"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/logo-glow.png"
+    },
+    "plugins": [
+      [
+        "expo-router",
+        {
+          "root": "./src/app"
+        }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#0e101b",
+          "image": "./assets/images/logo-glow.png",
+          "imageWidth": 200
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}

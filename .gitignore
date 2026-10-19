@@ -1,0 +1,162 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+app-example
+
+# generated native folders
+/ios
+/android
+
+# Storybook
+storybook-static/
+
+.vercel
+
+# IDE & AI tools
+.vscode/
+.claude/
+.cursor/
+.env
+.env.*
+
+# Original artwork restored by prepare:assets from pinned upstream
+/assets/expo.icon/Assets/grid.png
+/assets/images/android-icon-background.png
+/assets/images/android-icon-foreground.png
+/assets/images/android-icon-monochrome.png
+/assets/images/card-bg/bg_card_gradient_1-3x.png
+/assets/images/card-bg/bg_card_gradient_2-3x.png
+/assets/images/card-bg/bg_card_gradient_3-3x.png
+/assets/images/card-bg/bg_card_gradient_4-3x.png
+/assets/images/card-bg/bg_card_gradient_5-3x.png
+/assets/images/component_previews/ActivityItem.png
+/assets/images/component_previews/Add transaction.png
+/assets/images/component_previews/Amount input.jpg
+/assets/images/component_previews/Analytic Breakdown screen.png
+/assets/images/component_previews/AnalyticOverview.png
+/assets/images/component_previews/Avatar with Icon.png
+/assets/images/component_previews/Avatar.png
+/assets/images/component_previews/BalanceCard.png
+/assets/images/component_previews/BillingItem.png
+/assets/images/component_previews/BottomNavBar.png
+/assets/images/component_previews/Buttons.png
+/assets/images/component_previews/Card Menu Item.png
+/assets/images/component_previews/Card Type Icon.png
+/assets/images/component_previews/Card.png
+/assets/images/component_previews/Category Breakdown Item.jpg
+/assets/images/component_previews/Category Icon.png
+/assets/images/component_previews/Expense Chart.jpg
+/assets/images/component_previews/Filter Chip.jpg
+/assets/images/component_previews/Goals Details.png
+/assets/images/component_previews/Goals screen.png
+/assets/images/component_previews/HomeIndicatorBar.png
+/assets/images/component_previews/Homescreen.png
+/assets/images/component_previews/Icon Frame.png
+/assets/images/component_previews/Image Form.png
+/assets/images/component_previews/Income Expense Card.jpg
+/assets/images/component_previews/Income Outcome Trend Card.png
+/assets/images/component_previews/IncomeExpenseChart.jpg
+/assets/images/component_previews/List Item.png
+/assets/images/component_previews/Media Slot.png
+/assets/images/component_previews/NavigationBar.jpg
+/assets/images/component_previews/Payment method icon.png
+/assets/images/component_previews/Profile and  Settings.png
+/assets/images/component_previews/Profile and Settings.png
+/assets/images/component_previews/ProgressBarWithController.png
+/assets/images/component_previews/Recap Card New.png
+/assets/images/component_previews/Search Field.jpg
+/assets/images/component_previews/Section title.png
+/assets/images/component_previews/Setting Single.png
+/assets/images/component_previews/SpendingChart.jpg
+/assets/images/component_previews/Tab Bar.jpg
+/assets/images/component_previews/Tab Item.jpg
+/assets/images/component_previews/Tag.jpg
+/assets/images/component_previews/Text Divider.png
+/assets/images/component_previews/Tooltip.jpg
+/assets/images/component_previews/Transaction History.png
+/assets/images/component_previews/Transaction Text Input.jpg
+/assets/images/component_previews/Version=Default.png
+/assets/images/component_previews/Version=Detailed.png
+/assets/images/component_previews/Version=Minimize.png
+/assets/images/component_previews/chip.png
+/assets/images/expo-badge-white.png
+/assets/images/expo-badge.png
+/assets/images/expo-logo.png
+/assets/images/favicon.png
+/assets/images/goals-card/bg_goals_card_minimize.png
+/assets/images/goals-card/bg_goals_card_new_car.png
+/assets/images/goals-details/bg_goals_details_header-3x.png
+/assets/images/home/bg_home_header-3x.png
+/assets/images/icon.png
+/assets/images/landing/Author Image.png
+/assets/images/landing/finmori-cover-1280.jpg
+/assets/images/landing/finmori-cover.jpg
+/assets/images/landing/finmori-logo.png
+/assets/images/logo-glow.png
+/assets/images/profile-settings/bg_profile_settings_header-3x.png
+/assets/images/react-logo.png
+/assets/images/react-logo@2x.png
+/assets/images/react-logo@3x.png
+/assets/images/splash-icon.png
+/assets/images/tabIcons/explore.png
+/assets/images/tabIcons/explore@2x.png
+/assets/images/tabIcons/explore@3x.png
+/assets/images/tabIcons/home.png
+/assets/images/tabIcons/home@2x.png
+/assets/images/tabIcons/home@3x.png
+/assets/images/tutorial-web.png
+/public/android-icon-192x192.png
+/public/apple-icon-114x114.png
+/public/apple-icon-120x120.png
+/public/apple-icon-144x144.png
+/public/apple-icon-152x152.png
+/public/apple-icon-180x180.png
+/public/apple-icon-57x57.png
+/public/apple-icon-60x60.png
+/public/apple-icon-72x72.png
+/public/apple-icon-76x76.png
+/public/apple-icon-precomposed.png
+/public/favicon-16x16.png
+/public/favicon-32x32.png
+/public/favicon-96x96.png
+/public/favicon.ico
+/public/ms-icon-144x144.png
+/public/ms-icon-150x150.png
+/public/ms-icon-310x310.png
+/public/ms-icon-70x70.png
+/public/og-image.jpg

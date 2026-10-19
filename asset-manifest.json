@@ -1,0 +1,527 @@
+[
+  {
+    "path": "assets/expo.icon/Assets/grid.png",
+    "sha256": "8247d79a2b31328fe4e330a973e6fae16924ed9aebd72c64d464d6856ab18c72",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/expo.icon/Assets/grid.png"
+  },
+  {
+    "path": "assets/images/android-icon-background.png",
+    "sha256": "fb139c2dee362ebf2070e23b96da6fc0d43f8492de38b8af1fd7223e19b5861d",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/android-icon-background.png"
+  },
+  {
+    "path": "assets/images/android-icon-foreground.png",
+    "sha256": "9e3d0315a33c6799de601dd34cd8bf8cc3a8d16f3bf75592baec2ceb7240b391",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/android-icon-foreground.png"
+  },
+  {
+    "path": "assets/images/android-icon-monochrome.png",
+    "sha256": "6371fc2c12e33ad2215a86c281db3d682a81bebe7c957a842c13b8bf00cceb83",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/android-icon-monochrome.png"
+  },
+  {
+    "path": "assets/images/card-bg/bg_card_gradient_1-3x.png",
+    "sha256": "2f311a7fa282d76afb5523419190dfdeff944ccfd5eb4b031fcba509199cd679",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/card-bg/bg_card_gradient_1-3x.png"
+  },
+  {
+    "path": "assets/images/card-bg/bg_card_gradient_2-3x.png",
+    "sha256": "49f0e7ddbd37231847e58fc06c74158099be02f2f6eabe428a842f02ef60eac4",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/card-bg/bg_card_gradient_2-3x.png"
+  },
+  {
+    "path": "assets/images/card-bg/bg_card_gradient_3-3x.png",
+    "sha256": "36ea99f7e33108da9fa55a928c25e8b2a86ccddca45f9eecf9cd50e565a89845",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/card-bg/bg_card_gradient_3-3x.png"
+  },
+  {
+    "path": "assets/images/card-bg/bg_card_gradient_4-3x.png",
+    "sha256": "f19ceadfacd142d59c5310430ea16ab3ca96aaf38ba19977892bf55c040aeb6a",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/card-bg/bg_card_gradient_4-3x.png"
+  },
+  {
+    "path": "assets/images/card-bg/bg_card_gradient_5-3x.png",
+    "sha256": "f31c053c91ee5f6eb6ac8cf8ba72a14da4097c0b3152fa5d0a8832743bc50c32",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/card-bg/bg_card_gradient_5-3x.png"
+  },
+  {
+    "path": "assets/images/component_previews/ActivityItem.png",
+    "sha256": "d946ae0ea17673826a3915f15856f7c81a69287c5935a39086e71d959d2a765d",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/ActivityItem.png"
+  },
+  {
+    "path": "assets/images/component_previews/Add transaction.png",
+    "sha256": "5b53c582dae4d597b5bcd283a7d6a7dda78ed574e668763bcc0a0e42ed24504b",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Add%20transaction.png"
+  },
+  {
+    "path": "assets/images/component_previews/Amount input.jpg",
+    "sha256": "6bf4137eab7b736ac177aa543501c2cb88c4f399aa3e9596162ae56b3bc8e070",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Amount%20input.jpg"
+  },
+  {
+    "path": "assets/images/component_previews/Analytic Breakdown screen.png",
+    "sha256": "2e904c5eb118720bd87105d5ad821dd08a4d10a85183060326fd8cb26cf327dc",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Analytic%20Breakdown%20screen.png"
+  },
+  {
+    "path": "assets/images/component_previews/AnalyticOverview.png",
+    "sha256": "c64fb21e5044dad9fa1eb399126a9bbf83d2140da5975345f9e75cce9c86b167",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/AnalyticOverview.png"
+  },
+  {
+    "path": "assets/images/component_previews/Avatar with Icon.png",
+    "sha256": "4bec4b7ab2eacb7a6d8dd3a3dc355a6c10c0248fbd91f985a413e41ad6d2e665",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Avatar%20with%20Icon.png"
+  },
+  {
+    "path": "assets/images/component_previews/Avatar.png",
+    "sha256": "5d32ff895398a662a2916da48be26399f6dafc96c3d458cb3c707abdc60b5a91",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Avatar.png"
+  },
+  {
+    "path": "assets/images/component_previews/BalanceCard.png",
+    "sha256": "fe5a40eda88d89b21a00061c0cb30b5ef513db84e10c6343ccbf012eca961ea0",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/BalanceCard.png"
+  },
+  {
+    "path": "assets/images/component_previews/BillingItem.png",
+    "sha256": "1b62c423075b58eb0ef80d2f60a8202a96ad50d965681c88f90100701be4cb30",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/BillingItem.png"
+  },
+  {
+    "path": "assets/images/component_previews/BottomNavBar.png",
+    "sha256": "249d48718c48ebd00a170007eab24971fef27b5e187f076444edad264684ddbf",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/BottomNavBar.png"
+  },
+  {
+    "path": "assets/images/component_previews/Buttons.png",
+    "sha256": "f33cd4184c778365bea00dd92989356a38bf7a73be60ca698cbb8cde3fded5df",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Buttons.png"
+  },
+  {
+    "path": "assets/images/component_previews/Card Menu Item.png",
+    "sha256": "edd1e8565cb3f808091d2e12c3752737b0ae480c739bc1148566b19c2630758e",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Card%20Menu%20Item.png"
+  },
+  {
+    "path": "assets/images/component_previews/Card Type Icon.png",
+    "sha256": "e28815d04fedccb20bf149506899a86e4edf14fd2e208377ca21eba71359aa5e",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Card%20Type%20Icon.png"
+  },
+  {
+    "path": "assets/images/component_previews/Card.png",
+    "sha256": "6959000dc811728e209f9be0155c5dccbeed9d36d15cf9a6509b8bd6db87c36d",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Card.png"
+  },
+  {
+    "path": "assets/images/component_previews/Category Breakdown Item.jpg",
+    "sha256": "29c40eaa1885de2a3a4add4337789e245e7155b827e5f5f0ec116f0fac3fb6fd",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Category%20Breakdown%20Item.jpg"
+  },
+  {
+    "path": "assets/images/component_previews/Category Icon.png",
+    "sha256": "7cfc784911cef29957a47ffacfa36f85025e18fd962eba4dac27e6835a705c46",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Category%20Icon.png"
+  },
+  {
+    "path": "assets/images/component_previews/Expense Chart.jpg",
+    "sha256": "4f14ee3ce72af0bc990a61a13c082fe3f59a7370b3650c0236856b768f5b44d2",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Expense%20Chart.jpg"
+  },
+  {
+    "path": "assets/images/component_previews/Filter Chip.jpg",
+    "sha256": "0bb3d6b537dde443d798b77cab562968e9b58a22dcb2b8f1cee5ec49b5d7e1cb",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Filter%20Chip.jpg"
+  },
+  {
+    "path": "assets/images/component_previews/Goals Details.png",
+    "sha256": "49ee3878f50557ea22ed500aae0cbb68371b7545a8687c30d852af59497bb6e7",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Goals%20Details.png"
+  },
+  {
+    "path": "assets/images/component_previews/Goals screen.png",
+    "sha256": "8fe815babc37a7c3d84c76e8c7b310bfe00ade117d5d42e61a0410da100bc1d3",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Goals%20screen.png"
+  },
+  {
+    "path": "assets/images/component_previews/HomeIndicatorBar.png",
+    "sha256": "ff0ffd80e021a63bcd0fb3a18c60909488bdadae8a73766cbd5bd55c89d271d7",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/HomeIndicatorBar.png"
+  },
+  {
+    "path": "assets/images/component_previews/Homescreen.png",
+    "sha256": "ec82dc559243aa3e0866b956db3046b678c80ff09e4890c07f291accb9449f34",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Homescreen.png"
+  },
+  {
+    "path": "assets/images/component_previews/Icon Frame.png",
+    "sha256": "b1e5d6f4984545c9bd067834f809edc32443aa78c2a3882aab6f00a6b5c79a2e",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Icon%20Frame.png"
+  },
+  {
+    "path": "assets/images/component_previews/Image Form.png",
+    "sha256": "0636670225c02d354c54f4215b44c5c8329a280de3cb2b65317b71ab7f14db1f",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Image%20Form.png"
+  },
+  {
+    "path": "assets/images/component_previews/Income Expense Card.jpg",
+    "sha256": "5f002399293749b6d0faf1a193403218682b4333d1f2a379323c710acde18d5b",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Income%20Expense%20Card.jpg"
+  },
+  {
+    "path": "assets/images/component_previews/Income Outcome Trend Card.png",
+    "sha256": "781f0b76259bccc3180de402705be053c256d56f031f80ef8cd7c6ca2ca2072d",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Income%20Outcome%20Trend%20Card.png"
+  },
+  {
+    "path": "assets/images/component_previews/IncomeExpenseChart.jpg",
+    "sha256": "e4a9b1ecab903bd897f9fd920dc85f4ee75b84053bd1434a0d787740437b2c1e",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/IncomeExpenseChart.jpg"
+  },
+  {
+    "path": "assets/images/component_previews/List Item.png",
+    "sha256": "80183afc925b4cbe51e67d2c89fe99e0cd761c4c4df85ee020ff6e87f0f468f3",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/List%20Item.png"
+  },
+  {
+    "path": "assets/images/component_previews/Media Slot.png",
+    "sha256": "e3ad87c078e0d340fb4c1cbc6bc951f3fa37e435779ad91f8ac808fe87b41686",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Media%20Slot.png"
+  },
+  {
+    "path": "assets/images/component_previews/NavigationBar.jpg",
+    "sha256": "930617673cbe66052d8365ee4635e4e3d1bd1a2f0f20bdc9fef45e5c352e1ead",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/NavigationBar.jpg"
+  },
+  {
+    "path": "assets/images/component_previews/Payment method icon.png",
+    "sha256": "fddd2014261b57ed7f52151951896ceeac6257480868a258813dc0c7f83c2850",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Payment%20method%20icon.png"
+  },
+  {
+    "path": "assets/images/component_previews/Profile and  Settings.png",
+    "sha256": "771f9fb7376798bef02aa77e32f41a75642abdda2b0df768495c7278c2e31bb1",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Profile%20and%20%20Settings.png"
+  },
+  {
+    "path": "assets/images/component_previews/Profile and Settings.png",
+    "sha256": "0aa4b13d8651f504fca6dc4ed22f071ba357c66a385caa0482a17cc7f95746bc",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Profile%20and%20Settings.png"
+  },
+  {
+    "path": "assets/images/component_previews/ProgressBarWithController.png",
+    "sha256": "b0a2f1e11159a8c2d27ea76e4da9bb62547778b1c96f53f7422917ce614e2f35",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/ProgressBarWithController.png"
+  },
+  {
+    "path": "assets/images/component_previews/Recap Card New.png",
+    "sha256": "f4491fe2b7de88999bbb1a844441a1e21ff2ed3454006930d042c47ffabc4a16",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Recap%20Card%20New.png"
+  },
+  {
+    "path": "assets/images/component_previews/Search Field.jpg",
+    "sha256": "254c90783513b74b9f12ff5e2d34e1abb7fff74037adcf7833207f1ca8b9168e",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Search%20Field.jpg"
+  },
+  {
+    "path": "assets/images/component_previews/Section title.png",
+    "sha256": "4453d180f700e2ce13bd828002c905d62712c49e9a3b82305e5e81ca2c43d679",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Section%20title.png"
+  },
+  {
+    "path": "assets/images/component_previews/Setting Single.png",
+    "sha256": "8d55df0e4e42bb37675de2f2827799210f0c1bf973040f96105af3559c098995",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Setting%20Single.png"
+  },
+  {
+    "path": "assets/images/component_previews/SpendingChart.jpg",
+    "sha256": "9242de8cc431e703c33c667cc06727059948df9772c56ab66544a269366dd7fa",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/SpendingChart.jpg"
+  },
+  {
+    "path": "assets/images/component_previews/Tab Bar.jpg",
+    "sha256": "8172d996db25bc5a28961f0441bbf942d46a324482acba973b3cff672387d145",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Tab%20Bar.jpg"
+  },
+  {
+    "path": "assets/images/component_previews/Tab Item.jpg",
+    "sha256": "e71379b566ac89280199aa09e22d1ab23aa7c0ccb60079d5c882421c7507403c",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Tab%20Item.jpg"
+  },
+  {
+    "path": "assets/images/component_previews/Tag.jpg",
+    "sha256": "55c081e6bde2596eba5123c32e6875b286d77a3d0f43491ca5613cd0c2bac380",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Tag.jpg"
+  },
+  {
+    "path": "assets/images/component_previews/Text Divider.png",
+    "sha256": "be02bed5b7628fa220b4d5444f2eda689df1a6dc5ddc24b7063a6a28a0722819",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Text%20Divider.png"
+  },
+  {
+    "path": "assets/images/component_previews/Tooltip.jpg",
+    "sha256": "fbb0a9b14525c7c419c6780f1dfc256996cb47c9a008251e0a5d68c14bd2b9e1",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Tooltip.jpg"
+  },
+  {
+    "path": "assets/images/component_previews/Transaction History.png",
+    "sha256": "9c2647cd388f4ba35aba9a91ed14b5c582402d02469f36c0aca8f4fbfd380610",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Transaction%20History.png"
+  },
+  {
+    "path": "assets/images/component_previews/Transaction Text Input.jpg",
+    "sha256": "630ad157b5464fa4ef0eb29ab91f4edd9dcfe9e42a3e8da3763a23fe119438d9",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Transaction%20Text%20Input.jpg"
+  },
+  {
+    "path": "assets/images/component_previews/Version=Default.png",
+    "sha256": "e1da540aeb568f2d2e0702586835dfd864b5c001c2d9c819d6e249bfaeb38606",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Version%3DDefault.png"
+  },
+  {
+    "path": "assets/images/component_previews/Version=Detailed.png",
+    "sha256": "b5105ffb19a58c45a832df4168803810b92281c74f1ddb98ebcc80af935e8350",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Version%3DDetailed.png"
+  },
+  {
+    "path": "assets/images/component_previews/Version=Minimize.png",
+    "sha256": "c7e2ce0e24dceeb58b16ec308aed3eb059048ac8a82c0fe003a16635a33e0fdd",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/Version%3DMinimize.png"
+  },
+  {
+    "path": "assets/images/component_previews/chip.png",
+    "sha256": "61132c77ea2b1c6adcd299d6d6c64659fe03cb3985670e1b42004982cd2cf632",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/component_previews/chip.png"
+  },
+  {
+    "path": "assets/images/expo-badge-white.png",
+    "sha256": "d9ba28c5e93aea3c2dabd901ee96fea3bb296ad8e648f6f64706dae11a1a62bd",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/expo-badge-white.png"
+  },
+  {
+    "path": "assets/images/expo-badge.png",
+    "sha256": "ff353c7efadbd379903923cb604fca11c908cba0d4658cc2bd1f147d98317249",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/expo-badge.png"
+  },
+  {
+    "path": "assets/images/expo-logo.png",
+    "sha256": "27b060a757a29038c9618586baa0ba3894dbe60d084c6059df497ff429c2d92f",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/expo-logo.png"
+  },
+  {
+    "path": "assets/images/favicon.png",
+    "sha256": "a4e030697a7571b3e95d31860e4da55d2f98e5e861e2b55e414f45a8556828ba",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/favicon.png"
+  },
+  {
+    "path": "assets/images/goals-card/bg_goals_card_minimize.png",
+    "sha256": "09a604b530249ca505cf12ec4237140e13c6c428721219ecc00ac680b881b33c",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/goals-card/bg_goals_card_minimize.png"
+  },
+  {
+    "path": "assets/images/goals-card/bg_goals_card_new_car.png",
+    "sha256": "2f1d5102e52a552477d1a31f6d42a7f73ac99c1d3dc2189af6e24dff272fc656",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/goals-card/bg_goals_card_new_car.png"
+  },
+  {
+    "path": "assets/images/goals-details/bg_goals_details_header-3x.png",
+    "sha256": "9de38014611e262cdaf83221ed8451807801c2c554c958f5f570996f21c22106",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/goals-details/bg_goals_details_header-3x.png"
+  },
+  {
+    "path": "assets/images/home/bg_home_header-3x.png",
+    "sha256": "fd0cac3c6a4377f58854ce7c8e9c861dcbb74a74a39e9304686fa1cba000d24e",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/home/bg_home_header-3x.png"
+  },
+  {
+    "path": "assets/images/icon.png",
+    "sha256": "7a667804bb80a6a424a5daf18a2599c4f32237cf06fe78fc0de45dbb09e0eccf",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/icon.png"
+  },
+  {
+    "path": "assets/images/landing/Author Image.png",
+    "sha256": "7fcb11638addb20b3e613b773e75aaf1442b715dcdb5e16b4f36f492f63578fd",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/landing/Author%20Image.png"
+  },
+  {
+    "path": "assets/images/landing/finmori-cover-1280.jpg",
+    "sha256": "258bb7e2a6856c70ca8e2f7f80b9264447573f9c6331d2ab5ee15e23c4a1cdea",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/landing/finmori-cover-1280.jpg"
+  },
+  {
+    "path": "assets/images/landing/finmori-cover.jpg",
+    "sha256": "eb3674fbec6fe256692d0b6d5a50e0cb310100e75b4a546aa012240a464db097",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/landing/finmori-cover.jpg"
+  },
+  {
+    "path": "assets/images/landing/finmori-logo.png",
+    "sha256": "473680cf69d9282ec95364050962e2518cdb7634e3d5196d4ced8cb324dd0564",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/landing/finmori-logo.png"
+  },
+  {
+    "path": "assets/images/logo-glow.png",
+    "sha256": "bbd98a3f3c12d090f4df6065b7462fcdf6bc266209d002b4ef5fe554c245f66c",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/logo-glow.png"
+  },
+  {
+    "path": "assets/images/profile-settings/bg_profile_settings_header-3x.png",
+    "sha256": "5b1b61c42b9f81bd99580a5754399096687ceea5e7e67636d877e62307a05da9",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/profile-settings/bg_profile_settings_header-3x.png"
+  },
+  {
+    "path": "assets/images/react-logo.png",
+    "sha256": "224b7636b15e672801579b5b418077cbc2ca42f0146389062364356b0ecb5c5c",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/react-logo.png"
+  },
+  {
+    "path": "assets/images/react-logo@2x.png",
+    "sha256": "fa600be9ad2f869c7a8dbaffc78bb15af741123e1319c948f0be51753a153cde",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/react-logo%402x.png"
+  },
+  {
+    "path": "assets/images/react-logo@3x.png",
+    "sha256": "cd84e02a5d542a3e71b7fa10a685c1b9fb51db4aff92aca6c0da6461ce17be16",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/react-logo%403x.png"
+  },
+  {
+    "path": "assets/images/splash-icon.png",
+    "sha256": "27b060a757a29038c9618586baa0ba3894dbe60d084c6059df497ff429c2d92f",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/splash-icon.png"
+  },
+  {
+    "path": "assets/images/tabIcons/explore.png",
+    "sha256": "e2dea1c2d20929d83e8eebd74818e808b1b72e376d3a1f3a03679fff0255d073",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/tabIcons/explore.png"
+  },
+  {
+    "path": "assets/images/tabIcons/explore@2x.png",
+    "sha256": "1b54913b3a0acc3e1fb72d3b9b79ad04814304b35bbb9d03a533e6130ad6c26a",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/tabIcons/explore%402x.png"
+  },
+  {
+    "path": "assets/images/tabIcons/explore@3x.png",
+    "sha256": "2f3e43801df70ebe83273b90a7d170bacf5ca74a8a8dc5c154a020c2c8b06609",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/tabIcons/explore%403x.png"
+  },
+  {
+    "path": "assets/images/tabIcons/home.png",
+    "sha256": "3829632ec7d495225395f5da3d0942935d7d055979b174613d1ade82fe420e76",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/tabIcons/home.png"
+  },
+  {
+    "path": "assets/images/tabIcons/home@2x.png",
+    "sha256": "21c5a07df9017d97464a0a8256e265288f2fca0741ca651de05e12b32f32f5ab",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/tabIcons/home%402x.png"
+  },
+  {
+    "path": "assets/images/tabIcons/home@3x.png",
+    "sha256": "fe5b397975e7cb70ae7a122472d174ed12ec2ae106f7b49c968225ad37f8b3b8",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/tabIcons/home%403x.png"
+  },
+  {
+    "path": "assets/images/tutorial-web.png",
+    "sha256": "e372ec23ad6262e2e0dc2799ce416b495a631a565bcd24f0615d4afc04dac3bd",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/assets/images/tutorial-web.png"
+  },
+  {
+    "path": "public/android-icon-192x192.png",
+    "sha256": "5b16cbda2cacdcfda82cdd2096157573036017732d68bb388806646ac0a0ead0",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/android-icon-192x192.png"
+  },
+  {
+    "path": "public/apple-icon-114x114.png",
+    "sha256": "2a92249c5e3e3ef988116a04726a1d054ac961fc38a5930f17227bdfce42b343",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/apple-icon-114x114.png"
+  },
+  {
+    "path": "public/apple-icon-120x120.png",
+    "sha256": "af6cef4fe1634f1f5559bd3a97cb866925b6eb4549acfea8b407d3d5e1b694c2",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/apple-icon-120x120.png"
+  },
+  {
+    "path": "public/apple-icon-144x144.png",
+    "sha256": "0eda3e5691d11f62b0574eaa5756606f3a6e15847570cab79794199502dac8e7",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/apple-icon-144x144.png"
+  },
+  {
+    "path": "public/apple-icon-152x152.png",
+    "sha256": "1101c2d813a1e8df8d3189cf3f0d6b7c36c3b7714b3dcf53c22edd67b17a6ab5",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/apple-icon-152x152.png"
+  },
+  {
+    "path": "public/apple-icon-180x180.png",
+    "sha256": "a2be4b832df7c4e285077fd80e8e2e04b1c185189cd79163131e519516800363",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/apple-icon-180x180.png"
+  },
+  {
+    "path": "public/apple-icon-57x57.png",
+    "sha256": "396dd29fdd286e2c349cf6ec2c5c8363d2a3aafc8f92e2818fa8a271f4c843a5",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/apple-icon-57x57.png"
+  },
+  {
+    "path": "public/apple-icon-60x60.png",
+    "sha256": "92e16e109878663cb38c925429483bcd3ecf3d9be957358394a9d9751fcf7741",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/apple-icon-60x60.png"
+  },
+  {
+    "path": "public/apple-icon-72x72.png",
+    "sha256": "47557665e1efed398a7f58a15e92fbf21b48e5384110597705f20e1ae42248b2",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/apple-icon-72x72.png"
+  },
+  {
+    "path": "public/apple-icon-76x76.png",
+    "sha256": "00effdaba99943d80a955f50930ae7449309abcb37c91ce4dce8da49ac459155",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/apple-icon-76x76.png"
+  },
+  {
+    "path": "public/apple-icon-precomposed.png",
+    "sha256": "bb8340e71c858bdb09fcf9c37ba529249dbecd35243265352f25ab7319094c2c",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/apple-icon-precomposed.png"
+  },
+  {
+    "path": "public/favicon-16x16.png",
+    "sha256": "b224f1212ebe39c2df8e91f00a33a9f5e627d6496c203fe1e700fbf74d53a3cc",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/favicon-16x16.png"
+  },
+  {
+    "path": "public/favicon-32x32.png",
+    "sha256": "1cba52b32343852bedfb84ff08406e5401435075e566f872f32285f7f24bcc4a",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/favicon-32x32.png"
+  },
+  {
+    "path": "public/favicon-96x96.png",
+    "sha256": "e659217d72f7c3cefbbbff967ce519d5f94269feb13a167a3922697c44ea308c",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/favicon-96x96.png"
+  },
+  {
+    "path": "public/favicon.ico",
+    "sha256": "876ef06350a432ccb41acfaab5f766e2489ad93d0c6ef60b21bea5098befb46b",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/favicon.ico"
+  },
+  {
+    "path": "public/ms-icon-144x144.png",
+    "sha256": "0eda3e5691d11f62b0574eaa5756606f3a6e15847570cab79794199502dac8e7",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/ms-icon-144x144.png"
+  },
+  {
+    "path": "public/ms-icon-150x150.png",
+    "sha256": "cffac79abcbc247e3b789a2751649561ce16a920d7e189772dad7a8041efe9b1",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/ms-icon-150x150.png"
+  },
+  {
+    "path": "public/ms-icon-310x310.png",
+    "sha256": "d0890a1ecd591c610d5cc9a48c94ec5a2c75a6aacbecdc580f431915c45d1cfe",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/ms-icon-310x310.png"
+  },
+  {
+    "path": "public/ms-icon-70x70.png",
+    "sha256": "a757d08c742747438e607e805ca92e6ab89388e4b2cb9a5c3ebeedbb612fb8a8",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/ms-icon-70x70.png"
+  },
+  {
+    "path": "public/og-image.jpg",
+    "sha256": "258bb7e2a6856c70ca8e2f7f80b9264447573f9c6331d2ab5ee15e23c4a1cdea",
+    "url": "https://raw.githubusercontent.com/KhoaSuperman/Finmori-ReactNativeWeb/d6a2da01a8df89a78899dd7fecd244b093086577/public/og-image.jpg"
+  }
+]
